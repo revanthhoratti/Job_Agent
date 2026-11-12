@@ -1,0 +1,44 @@
+{
+  "job": "DS-Gen AI/Agnetic/LLM",
+  "company": "Zorba AI",
+  "url": "https://www.linkedin.com/jobs/view/4478840812/",
+  "status": "in_progress_page_5",
+  "draft_saved_on_linkedin": false,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Apply to Zorba AI",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 2,
+      "title": "Apply to Zorba AI",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 3,
+      "title": "Apply to Zorba AI",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 4,
+      "title": "Apply to Zorba AI",
+      "filled": [
+        "Please enter your notice period in days",
+        "Please enter your current ctc in INR",
+        "Please enter your expected ctc in INR",
+        "Please enter your LinkedIn profile URL"
+      ],
+      "unanswered": [
+        "Please select your total additional months of experience:*"
+      ],
+      "action": "saved_and_next"
+    }
+  ]
+}

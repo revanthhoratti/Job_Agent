@@ -1,0 +1,6 @@
+url: https://www.naukri.com/myapply/saveApply?strJobsarr=[231026021887]&applytype=single&resId=345594194&ApplyMode=1&id=356744438&src=h&logstr=----F-0-1--------F-0-1---&applySrc=----F-0-1---&multiApplyResp=%7B%22231026021887%22%3A200%7D&jobTitle=AI%20Engineer-ADK
+'' | id=None | class='nI-gNb-sb__expand'
+'' | id=None | class='nI-gNb-sb__icon-wrapper'
+'' | id=None | class=''
+'1' | id=None | class='nI-gNb-ncr__icon-wrapper'
+'1' | id=None | class='nI-gNb-drawer__icon'

@@ -1,0 +1,21 @@
+# Answers used to fill Easy Apply questions. A form label is matched if it
+# CONTAINS the key (case-insensitive). Replace every TODO with your real answer.
+# Anything left as TODO is never guessed: the agent pauses and asks you.
+
+default_years_experience: "3"      # used for "how many years of ... experience"
+phone: "7892357971"
+email: "rphoratti3@gmail.com"
+city: "Bengaluru"
+linkedin: "https://www.linkedin.com/in/revanth-horatti-6a29881a3/"
+github: "TODO"
+portfolio: "TODO"
+notice period: "0"
+current ctc: "12"
+current salary: "12"
+expected ctc: "20"
+expected salary: "20"
+willing to relocate: "Yes"          # Yes / No
+authorized to work in india: "Yes"
+require sponsorship: "No"
+comfortable working onsite: "Yes"
+comfortable commuting: "Yes"

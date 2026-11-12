@@ -1,0 +1,6 @@
+url: https://www.naukri.com/myapply/saveApply?strJobsarr=[261026005895]&applytype=single&resId=345594194&ApplyMode=1&id=356744438&src=h&logstr=----F-0-1--------F-0-1---&applySrc=----F-0-1---&multiApplyResp=%7B%22261026005895%22%3A200%7D&jobTitle=Data%20Scientist%20-%20Machine%20Learning%20and%20AI
+'' | id=None | class='nI-gNb-sb__expand'
+'' | id=None | class='nI-gNb-sb__icon-wrapper'
+'' | id=None | class=''
+'1' | id=None | class='nI-gNb-ncr__icon-wrapper'
+'1' | id=None | class='nI-gNb-drawer__icon'

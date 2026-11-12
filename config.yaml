@@ -1,0 +1,34 @@
+searches:
+  - keywords: "Generative AI Engineer"
+  - keywords: "Agentic AI Engineer"
+  - keywords: "LLM Engineer"
+  - keywords: "AI Agent Developer"
+
+locations:
+  - "Bengaluru, Karnataka, India"
+  - "India"
+
+sources: [linkedin, naukri]     # which sites to search and apply on
+
+naukri_locations: ["Bengaluru", "India"]   # "India" = all-India search
+
+posted_within_hours: 168       # only jobs posted in the last 7 days
+max_results_per_search: 50
+title_must_include_any: ["ai", "llm", "genai", "generative", "agent", "machine learning", "ml "]
+blocklist_companies: []         # e.g. ["Some Staffing Firm"]
+
+min_score: 70                   # 0-100 fit score needed to prepare/apply
+max_applications_per_day: 200    # keep this low to protect your account
+auto_submit: false              # false = you confirm every submit in the terminal
+
+provider: ollama                # free, runs locally. ("anthropic" also works if you add a paid API key)
+model: llama3.1:8b              # run once: ollama pull llama3.1:8b   (qwen2.5:7b is a good alternative)
+ollama_host: http://localhost:11434
+ollama_num_ctx: 8192            # context window; raise to 16384 if you have 16GB+ RAM
+resume_pdf: resume.pdf          # put your resume PDF in this folder
+
+# How form questions are answered (the model reads each question; see form_answerer.py)
+answer_ask_below: high          # "high": auto-fill only answers stated directly in your profile/answers.yaml,
+                                #         and ask you about anything inferred or uncertain.
+                                # "medium": also auto-fill reasonable inferences (asks only when unsure).
+confirm_free_text: true         # show written answers (e.g. "Why this role?") for approval before filling

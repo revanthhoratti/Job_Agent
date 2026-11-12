@@ -1,0 +1,29 @@
+{
+  "job": "Lead Generative AI Developer",
+  "company": "Naukri Assist",
+  "url": "https://www.naukri.com/job-listings-lead-generative-ai-developer-naukri-assist-noida-pune-bengaluru-8-to-17-years-221026021266",
+  "status": "failed:unconfirmed",
+  "questions": [
+    {
+      "question": "How many years of experience do you have in Azure?",
+      "answer": "3",
+      "source": "facts",
+      "confidence": "high",
+      "confirmed_by_you": false
+    },
+    {
+      "question": "If you are serving Notice, kindly mention your Last Working Day.",
+      "answer": "Skip this question",
+      "source": "facts",
+      "confidence": "high",
+      "confirmed_by_you": false
+    },
+    {
+      "question": "If you are serving Notice, kindly mention your Last Working Day.",
+      "answer": "Skip this question",
+      "source": "facts",
+      "confidence": "high",
+      "confirmed_by_you": false
+    }
+  ]
+}

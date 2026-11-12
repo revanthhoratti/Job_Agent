@@ -1,0 +1,22 @@
+{
+  "job": "Lead AI Engineer",
+  "company": "Siemens Healthcare",
+  "url": "https://www.naukri.com/job-listings-lead-ai-engineer-sunovaa-tech-bengaluru-9-to-13-years-261026001672",
+  "status": "failed:unconfirmed",
+  "questions": [
+    {
+      "question": "How many years of experience do you have in Azure OpenAI?",
+      "answer": "3",
+      "source": "profile",
+      "confidence": "high",
+      "confirmed_by_you": false
+    },
+    {
+      "question": "How many years of experience do you have in AI Platform Engineering?",
+      "answer": "3",
+      "source": "you",
+      "confidence": "high",
+      "confirmed_by_you": true
+    }
+  ]
+}

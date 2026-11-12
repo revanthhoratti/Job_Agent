@@ -1,0 +1,24 @@
+url: https://www.linkedin.com/jobs/view/4478840812/?companyName=Zorba+AI&trackingId=uO%2F0RLvkQ%2BO5A9NyyMYTKw%3D%3D&applicantTrackingSystemName=PyjamaHR
+'' | aria-label='Dismiss'
+'Next' | aria-label=None
+'Skip to search' | aria-label=None
+'Skip to main content' | aria-label=None
+'Skip to primary content' | aria-label=None
+'Skip to aside' | aria-label=None
+'Skip to footer' | aria-label=None
+'' | aria-label='Close jump menu'
+'Home' | aria-label='Home, 1 new notification'
+'Me' | aria-label=None
+'For Business' | aria-label='For Business'
+'' | aria-label='More options'
+'Easy Apply' | aria-label='Easy Apply to this job'
+'Save' | aria-label='Save the job'
+'… more' | aria-label=None
+'' | aria-label='Not now'
+'Follow' | aria-label='Follow Zorba AI'
+'… more' | aria-label=None
+'Messaging You are on the messaging overlay. Press enter to m' | aria-label=None
+'' | aria-label=None
+'Compose message' | aria-label=None
+'You are on the messaging overlay. Press enter to minimize it' | aria-label=None
+'' | aria-label=None

@@ -1,0 +1,24 @@
+2026/10/27-21:33:00.806 2230 Reusing MANIFEST C:\Users\rphor\OneDrive\Documents\2026_Projects\job_agent\.browser_naukri\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/27-21:33:00.810 2230 Recovering log #10
+2026/10/27-21:33:00.821 2230 Reusing old log C:\Users\rphor\OneDrive\Documents\2026_Projects\job_agent\.browser_naukri\Default\Local Storage\leveldb/000010.log 
+2026/10/27-21:38:01.725 7984 Level-0 table #14: started
+2026/10/27-21:38:01.741 7984 Level-0 table #14: 14263 bytes OK
+2026/10/27-21:38:01.744 7984 Delete type=0 #10
+2026/10/27-21:54:25.360 7984 Level-0 table #16: started
+2026/10/27-21:54:25.375 7984 Level-0 table #16: 13115 bytes OK
+2026/10/27-21:54:25.379 7984 Delete type=0 #13
+2026/10/27-22:25:48.678 7984 Level-0 table #18: started
+2026/10/27-22:25:48.693 7984 Level-0 table #18: 12852 bytes OK
+2026/10/27-22:25:48.697 7984 Delete type=0 #15
+2026/10/27-22:25:48.698 7984 Compacting 4@0 + 1@1 files
+2026/10/27-22:25:48.720 7984 Generated table #19@0: 26 keys, 143081 bytes
+2026/10/27-22:25:48.720 7984 Compacted 4@0 + 1@1 files => 143081 bytes
+2026/10/27-22:25:48.722 7984 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/27-22:25:48.724 7984 Delete type=2 #8
+2026/10/27-22:25:48.724 7984 Delete type=2 #11
+2026/10/27-22:25:48.724 7984 Delete type=2 #14
+2026/10/27-22:25:48.724 7984 Delete type=2 #16
+2026/10/27-22:25:48.725 7984 Delete type=2 #18
+2026/10/28-11:59:40.469 7984 Level-0 table #21: started
+2026/10/28-11:59:40.485 7984 Level-0 table #21: 12961 bytes OK
+2026/10/28-11:59:40.488 7984 Delete type=0 #17

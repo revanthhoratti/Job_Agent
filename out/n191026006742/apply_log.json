@@ -1,0 +1,15 @@
+{
+  "job": "AI Engineer",
+  "company": "Luxoft",
+  "url": "https://www.naukri.com/job-listings-ai-engineer-luxoft-pune-bengaluru-13-to-17-years-191026006742",
+  "status": "failed:unconfirmed",
+  "questions": [
+    {
+      "question": "How many years of experience do you have in Python/Java?",
+      "answer": "3",
+      "source": "facts",
+      "confidence": "high",
+      "confirmed_by_you": false
+    }
+  ]
+}

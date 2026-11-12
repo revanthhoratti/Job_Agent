@@ -1,0 +1,42 @@
+{
+  "job": "AI Engineer",
+  "company": "Trantor",
+  "url": "https://www.linkedin.com/jobs/view/4477298680/",
+  "status": "failed:page_3_not_accepted",
+  "draft_saved_on_linkedin": true,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Apply to Trantor",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 2,
+      "title": "Apply to Trantor",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 3,
+      "title": "Apply to Trantor",
+      "filled": [
+        "Mention notice period, 0 if immediate, if serving mention days left ",
+        "Mention notice period, 0 if immediate, if serving mention days left "
+      ],
+      "unanswered": [
+        "Total Years of exp?",
+        "Yrs of exp in AI Engineering?",
+        "Yrs of exp in LLM & Gen AI?",
+        "Your expectation? ",
+        "Total Years of exp?",
+        "Yrs of exp in AI Engineering?",
+        "Yrs of exp in LLM & Gen AI?",
+        "Your expectation? "
+      ],
+      "action": "not_accepted"
+    }
+  ]
+}

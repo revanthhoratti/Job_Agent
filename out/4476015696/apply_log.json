@@ -1,0 +1,32 @@
+{
+  "job": "AI Engineer",
+  "company": "Ecolibrium",
+  "url": "https://www.linkedin.com/jobs/view/4476015696/",
+  "status": "skipped",
+  "draft_saved_on_linkedin": true,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Apply to Ecolibrium",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 2,
+      "title": "Apply to Ecolibrium",
+      "filled": [],
+      "unanswered": [],
+      "action": "saved_and_next"
+    },
+    {
+      "page": 3,
+      "title": "Apply to Ecolibrium",
+      "filled": [
+        "How many years of software engineering experience do you have"
+      ],
+      "unanswered": [],
+      "action": "declined"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number::how many years of experience do you have in ai platform engineering::": {
+    "question": "How many years of experience do you have in AI Platform Engineering?",
+    "answer": "3"
+  },
+  "number::how many years of experience do you have in predictive analytics::": {
+    "question": "How many years of experience do you have in Predictive Analytics?",
+    "answer": "0"
+  },
+  "text::pan number is mandatory to process please give your number::": {
+    "question": "PAN Number is Mandatory to Process, Please give your Number ?",
+    "answer": "0"
+  }
+}
